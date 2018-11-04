@@ -5,6 +5,7 @@
 # Overview
 
 ## 💡 What is Polymath?
+Polymath enables trillions of dollars of securities to migrate to the blockchain.
 
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘website.poly’ or ‘mywebsite.poly’ into addresses understandable by decentralized network machines.
