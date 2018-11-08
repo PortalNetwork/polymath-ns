@@ -1,4 +1,4 @@
-# Polymath Name Service
+![Polymath Name Service](./assets/title.jpg)
 
 > 📖🔍 Documents of the Polymath Name Service.
 
